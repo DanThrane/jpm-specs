@@ -10,7 +10,7 @@
         "module": "DanThrane/presentations"
     },
     "source": {
-        "name": "DanThrane/exercises",
-        "commit": "4630b7756e35c4ff005677bc09f14f4153c5b2f9"
+        "module": "DanThrane/exercises",
+        "version": "4630b7756e35c4ff005677bc09f14f4153c5b2f9"
     }
 }
