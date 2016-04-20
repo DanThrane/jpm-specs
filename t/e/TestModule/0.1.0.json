@@ -1,0 +1,16 @@
+{
+    "name": "TestModule",
+    "description": "Test Description",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "dependencies": {
+        "module": "DanThrane/presentations"
+    },
+    "source": {
+        "name": "DanThrane/exercises",
+        "commit": "4630b7756e35c4ff005677bc09f14f4153c5b2f9"
+    }
+}
