@@ -1,0 +1,1 @@
+{"private":false,"name":"Sample Package","description":"A sample package managed by JPM","source":{"module":"TruekTest\/SamplePackage","version":"ecd35c670fd4416e879fcf5ce9344b19046ae3d1"},"version":{"patch":2,"major":0,"minor":1},"dependencies":{"module":"SampleDependency","version":"0.1.3"}}
