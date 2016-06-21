@@ -1,0 +1,1 @@
+{"private":false,"name":"MyProject","description":"A description for my project","source":{"module":"DanThrane\/MyProject","version":"b261ac63dff548af374fcb78d74d6226fcd3bbe8"},"version":{"patch":0,"major":0,"minor":1},"dependencies":{"module":"git","version":"0.1.0"}}
